@@ -5,8 +5,8 @@
   "author": "3700rpm",
   "license": "MIT",
   "dependencies": {
-    "@eth-optimism/sdk": "3.1.2 --ignore-engines",
-    "@eth-optimism/core-utils": "0.13.0"
+    "@eth-optimism/core-utils": "0.13.0",
+    "@eth-optimism/sdk": "1.1.5"
   },
   "browserslist": {
     "production": [
@@ -22,7 +22,7 @@
   },
   "engines": {
     "npm": "please-use-yarn",
-    "node": ">=14",
+    "node": "14",
     "yarn": ">=1.22"
   }
 }
