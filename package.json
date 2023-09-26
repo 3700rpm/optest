@@ -24,5 +24,8 @@
     "npm": "please-use-yarn",
     "node": "14",
     "yarn": ">=1.22"
+  },
+  "resolutions": {
+    "@eth-optimism/core-utils/preinstall": "npx only-allow yarn"
   }
 }
